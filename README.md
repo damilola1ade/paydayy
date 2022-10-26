@@ -2,10 +2,6 @@
 
 NotPayDay Landing Page.
 
-## Demo link:
-
-Access the demo site at [NotPayDay](https://notpayday-devaandrew.netlify.app)
-
 ## Table of Content:
 
 - [About The App](#about-the-app)
