@@ -1,6 +1,10 @@
 # Project Title
 
-NotPayDay Landing Page.
+PayDayy Landing Page.
+
+![1](https://user-images.githubusercontent.com/76736466/198662497-4fe3c71a-1df7-4e43-bcdc-8462b089f7cf.PNG)
+![2](https://user-images.githubusercontent.com/76736466/198662611-c3f51c34-e385-44e4-823e-748ddd3d92f5.PNG)
+
 
 ## Table of Content:
 
@@ -12,7 +16,7 @@ NotPayDay Landing Page.
 
 ## About The App
 
-NotPayDay Landing Page is a replica of [Payday](https://usepayday.com)
+PayDayy Landing Page is a replica of [Payday](https://usepayday.com)
 
 ## Technologies
 
